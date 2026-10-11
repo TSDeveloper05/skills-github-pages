@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Go to blog posts
 ---
 
 # Python scripts with Mitsubishi PLC
